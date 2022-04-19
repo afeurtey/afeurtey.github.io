@@ -15,7 +15,6 @@ enableRobotsTXT = true
 
 weight = 1
 
-
 [sitemap]
   changefreq = "monthly"
   priority = 0.5

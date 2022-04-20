@@ -1,7 +1,6 @@
 ---
 title: "Global spread and adaptation of a major crop pathogen"
 date: 2022-02-26T11:45:16+01:00
-draft: true
 cover_image: "/images/1000_Zt_Pop_str.png"
 ---
 

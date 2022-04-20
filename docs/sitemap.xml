@@ -3,12 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://afeurtey.github.io/</loc>
-    <lastmod>2016-01-01T11:45:16+01:00</lastmod>
+    <lastmod>2022-02-26T11:45:16+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://afeurtey.github.io/current-project/</loc>
+    <lastmod>2022-02-26T11:45:16+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://afeurtey.github.io/current-project/thousands_zt_genomes/</loc>
+    <lastmod>2022-02-26T11:45:16+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://afeurtey.github.io/publication/genomic_architecture/</loc>
+    <lastmod>2020-01-01T11:45:16+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://afeurtey.github.io/publication/</loc>
-    <lastmod>2016-01-01T11:45:16+01:00</lastmod>
+    <lastmod>2020-01-01T11:45:16+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://afeurtey.github.io/publication/apple_trees_crop_wild/</loc>
+    <lastmod>2016-07-01T11:45:16+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

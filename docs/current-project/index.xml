@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current projects on Alice Feurtey.</title>
+    <link>https://afeurtey.github.io/current-project/</link>
+    <description>Recent content in Current projects on Alice Feurtey.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Feb 2022 11:45:16 +0100</lastBuildDate><atom:link href="https://afeurtey.github.io/current-project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Global spread and adaptation of a major crop pathogen</title>
+      <link>https://afeurtey.github.io/current-project/thousands_zt_genomes/</link>
+      <pubDate>Sat, 26 Feb 2022 11:45:16 +0100</pubDate>
+      
+      <guid>https://afeurtey.github.io/current-project/thousands_zt_genomes/</guid>
+      <description>This is an ongoing project and is described here only for information. The figures are from talks I have made and they are likely to change as this project evolves and until it gets published officially.
+ Human activity has a tremendous impact on the evolutionary trajectories of many species worldwide. Global trade of agricultural goods contributes to the dispersal of domesticated species but also of their pathogens, reshaping species distributions to include new environments and climates.</description>
+    </item>
+    
+  </channel>
+</rss>

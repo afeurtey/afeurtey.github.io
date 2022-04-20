@@ -1,7 +1,6 @@
 ---
 title: "Genomic and epigenomic architecture of a plant pathogen"
 date: 2020-01-01T11:45:16+01:00
-draft: true
 cover_image: "/images/Genome_compartment_cover.png"
 summary: "Using several fully assembled *Zymoseptoria* genomes, we describe here a high level of conservation in genomic, epigenomic and transcriptomic composition and structure across the genus *Zymoseptoria*, despite previous reports of high genomic plasticity in *Z. tritici*. The compartmentalized genome allows the maintenance of a functional core genome co-occurring with a highly variable accessory genome."
 ---

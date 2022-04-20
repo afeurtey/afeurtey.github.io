@@ -1,7 +1,6 @@
 ---
 title: "Crop-to-wild gene flow in apple trees"
 date: 2016-07-01T11:45:16+01:00
-draft: true
 cover_image: "/images/Apple_orchard.jpg"
 summary: "During my Master's and PhD projects, in Tatiana Giraud’s group, I studied the role of inter-specific hybridisations in the evolutionary history of apple trees."
 ---

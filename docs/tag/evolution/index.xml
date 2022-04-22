@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evolution | Alice Feurtey</title>
+    <link>https://academic-demo.netlify.app/tag/evolution/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/evolution/index.xml" rel="self" type="application/rss+xml" />
+    <description>Evolution</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2016 11:45:16 +0100</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Evolution</title>
+      <link>https://academic-demo.netlify.app/tag/evolution/</link>
+    </image>
+    
+    <item>
+      <title>Crop-to-wild gene flow in apple trees</title>
+      <link>https://academic-demo.netlify.app/project/apple_tree_crop_wild/</link>
+      <pubDate>Fri, 01 Jul 2016 11:45:16 +0100</pubDate>
+      <guid>https://academic-demo.netlify.app/project/apple_tree_crop_wild/</guid>
+      <description>&lt;p&gt;During my PhD in Tatiana Giraud’s group, I studied the role of inter-specific hybridisations in the evolutionary history of apple trees. I investigated the effect of crop-to-wild gene flow on the conservation of two wild apple tree species:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the European wild apple tree, &lt;em&gt;Malus sylvestris&lt;/em&gt;,&lt;/li&gt;
+&lt;li&gt;the Asian wild apple tree, &lt;em&gt;Malus sieversii&lt;/em&gt;, which grows in the Tian Shan mountain forests and is the ancestor of the cultivated apple tree, &lt;em&gt;Malus domestica&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Crop-to-wild inter-specific gene flow can be observed in the European wild apple tree, correlated with anthropic activities and threatening the genetic integrity of the wild tree populations, since hybrids do not show any detectable reduction in fitness.&lt;/p&gt;
+&lt;p&gt;I wrote or participated in several publications around this topic.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1111/eva.12250&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anthropogenic and natural drivers of gene flow in a temperate wild fruit tree: a basis for conservation and breeding programs in apples&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1111/eva.12441&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Crop-to-wild gene flow and its fitness consequences for a wild fruit tree: Towards a comprehensive conservation strategy of the wild apple in Europe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1111/mec.15677&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Threat to Asian wild apple trees posed by gene flow from domesticated apple trees and their “pestified” pathogens&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://academic-demo.netlify.app/images/Apple_orchard.jpg&#34; alt=&#34;An apple tree picture&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

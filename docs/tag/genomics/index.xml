@@ -14,9 +14,9 @@
     
     <item>
       <title>Global spread and adaptation of a major crop pathogen</title>
-      <link>https://afeurtey.github.io/project/thousands_zt_genomes/</link>
+      <link>https://afeurtey.github.io/project/thousand_zt_genomes/</link>
       <pubDate>Sat, 26 Feb 2022 11:45:16 +0100</pubDate>
-      <guid>https://afeurtey.github.io/project/thousands_zt_genomes/</guid>
+      <guid>https://afeurtey.github.io/project/thousand_zt_genomes/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;This is an ongoing project and is described here only for information. The figures are from talks I have made and they are likely to change as this project evolves and until it gets published officially.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -67,6 +67,43 @@
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Taken together, our work demonstrates how a comprehensive panel of genomes enables deep insights into the evolutionary history of a major crop pathogen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genomic and epigenomic architecture of a plant pathogen</title>
+      <link>https://afeurtey.github.io/project/genomic_architecture/</link>
+      <pubDate>Wed, 01 Jan 2020 11:45:16 +0100</pubDate>
+      <guid>https://afeurtey.github.io/project/genomic_architecture/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1186/s12864-020-06871-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to the publication&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;Antagonistic co-evolution can drive rapid adaptation in pathogens and shape genome architecture. Comparative genome analyses of several fungal pathogens revealed highly variable genomes, for many species characterized by specific repeat-rich genome compartments with exceptionally high sequence variability. Dynamic genome structure may enable fast adaptation to host genetics. The wheat pathogen &lt;em&gt;Zymoseptoria tritici&lt;/em&gt; with its highly variable genome, has emerged as a model organism to study genome evolution of plant pathogens. Here, we compared genomes of &lt;em&gt;Z. tritici&lt;/em&gt; isolates and of sister species infecting wild grasses to address the evolution of genome composition and structure.&lt;/p&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;Using long-read technology, we sequenced and assembled genomes of &lt;em&gt;Z. ardabiliae&lt;/em&gt;, &lt;em&gt;Z. brevis&lt;/em&gt;, &lt;em&gt;Z. pseudotritici&lt;/em&gt; and &lt;em&gt;Z. passerinii&lt;/em&gt;, together with two isolates of &lt;em&gt;Z. tritici&lt;/em&gt;. We report a high extent of genome collinearity among &lt;em&gt;Zymoseptoria&lt;/em&gt; species and high conservation of genomic, transcriptomic and epigenomic signatures of compartmentalization (see image below).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://afeurtey.github.io/images/Genome_compartment_circos.png&#34; alt=&#34;Circos plots from Z.tritici and Z.pseudotritici, showing compartmentalization at the genomic, transcriptomic and epigenomic levels&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;We identify high gene content variability both within and between species. In addition, such variability is mainly limited to the accessory chromosomes and accessory compartments. Despite strong host specificity and non-overlapping host-range between species, predicted effectors are mainly shared among &lt;em&gt;Zymoseptoria&lt;/em&gt; species, yet exhibiting a high level of presence-absence polymorphism within &lt;em&gt;Z. tritici&lt;/em&gt;. Using in planta transcriptomic data from &lt;em&gt;Z. tritici&lt;/em&gt;, we suggest different roles for the shared orthologs and for the accessory genes during infection of their hosts.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Despite previous reports of high genomic plasticity in &lt;em&gt;Z. tritici&lt;/em&gt;, we describe here a high level of conservation in genomic, epigenomic and transcriptomic composition and structure across the genus &lt;em&gt;Zymoseptoria&lt;/em&gt;. The compartmentalized genome allows the maintenance of a functional core genome co-occurring with a highly variable accessory genome.&lt;/p&gt;
 </description>
     </item>
     

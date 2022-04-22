@@ -2,30 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Alice Feurtey</title>
-    <link>https://academic-demo.netlify.app/project/</link>
-      <atom:link href="https://academic-demo.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://afeurtey.github.io/project/</link>
+      <atom:link href="https://afeurtey.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Feb 2022 12:17:14 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Feb 2022 11:45:16 +0100</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://afeurtey.github.io/media/icon_hud0dbf17b8928d9e0d9e2422aaf422cc6_1197_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://academic-demo.netlify.app/project/</link>
+      <link>https://afeurtey.github.io/project/</link>
     </image>
     
     <item>
-      <title>Plant pathogen pangenomes</title>
-      <link>https://academic-demo.netlify.app/project/fungal_pangenomes/</link>
-      <pubDate>Sat, 26 Feb 2022 12:17:14 +0100</pubDate>
-      <guid>https://academic-demo.netlify.app/project/fungal_pangenomes/</guid>
-      <description>&lt;p&gt;Section still under construction!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Global spread and adaptation of a major crop pathogen</title>
-      <link>https://academic-demo.netlify.app/project/thousands_zt_genomes/</link>
+      <link>https://afeurtey.github.io/project/thousands_zt_genomes/</link>
       <pubDate>Sat, 26 Feb 2022 11:45:16 +0100</pubDate>
-      <guid>https://academic-demo.netlify.app/project/thousands_zt_genomes/</guid>
+      <guid>https://afeurtey.github.io/project/thousands_zt_genomes/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;This is an ongoing project and is described here only for information. The figures are from talks I have made and they are likely to change as this project evolves and until it gets published officially.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -50,7 +41,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://academic-demo.netlify.app/images/1000_Zt_Pop_str.png&#34; alt=&#34;Map of the world displaying the 11 genetic clusters and population tree&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://afeurtey.github.io/images/1000_Zt_Pop_str.png&#34; alt=&#34;Map of the world displaying the 11 genetic clusters and population tree&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;By reconstructing the evolutionary history of the species, we uncovered its impact on adaptive genetic variation and on the evolution of the pathogen genome. Finally, we identify standing variation for adaptation to new climates encountered during the global spread. See below an example of such an analysis for two of the thirteen variables we used.&lt;/p&gt;
@@ -72,7 +63,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://academic-demo.netlify.app/images/1000_Zt_GEA.png&#34; alt=&#34;Example of a Manhattan plot from the GEA analysis using bioclimatic variables&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://afeurtey.github.io/images/1000_Zt_GEA.png&#34; alt=&#34;Example of a Manhattan plot from the GEA analysis using bioclimatic variables&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Taken together, our work demonstrates how a comprehensive panel of genomes enables deep insights into the evolutionary history of a major crop pathogen.&lt;/p&gt;
@@ -81,9 +72,9 @@
     
     <item>
       <title>Genomic and epigenomic architecture of a plant pathogen</title>
-      <link>https://academic-demo.netlify.app/project/genomic_architecture/</link>
+      <link>https://afeurtey.github.io/project/genomic_architecture/</link>
       <pubDate>Wed, 01 Jan 2020 11:45:16 +0100</pubDate>
-      <guid>https://academic-demo.netlify.app/project/genomic_architecture/</guid>
+      <guid>https://afeurtey.github.io/project/genomic_architecture/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1186/s12864-020-06871-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to the publication&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Antagonistic co-evolution can drive rapid adaptation in pathogens and shape genome architecture. Comparative genome analyses of several fungal pathogens revealed highly variable genomes, for many species characterized by specific repeat-rich genome compartments with exceptionally high sequence variability. Dynamic genome structure may enable fast adaptation to host genetics. The wheat pathogen &lt;em&gt;Zymoseptoria tritici&lt;/em&gt; with its highly variable genome, has emerged as a model organism to study genome evolution of plant pathogens. Here, we compared genomes of &lt;em&gt;Z. tritici&lt;/em&gt; isolates and of sister species infecting wild grasses to address the evolution of genome composition and structure.&lt;/p&gt;
@@ -107,7 +98,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://academic-demo.netlify.app/images/Genome_compartment_circos.png&#34; alt=&#34;Circos plots from Z.tritici and Z.pseudotritici, showing compartmentalization at the genomic, transcriptomic and epigenomic levels&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://afeurtey.github.io/images/Genome_compartment_circos.png&#34; alt=&#34;Circos plots from Z.tritici and Z.pseudotritici, showing compartmentalization at the genomic, transcriptomic and epigenomic levels&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;We identify high gene content variability both within and between species. In addition, such variability is mainly limited to the accessory chromosomes and accessory compartments. Despite strong host specificity and non-overlapping host-range between species, predicted effectors are mainly shared among &lt;em&gt;Zymoseptoria&lt;/em&gt; species, yet exhibiting a high level of presence-absence polymorphism within &lt;em&gt;Z. tritici&lt;/em&gt;. Using in planta transcriptomic data from &lt;em&gt;Z. tritici&lt;/em&gt;, we suggest different roles for the shared orthologs and for the accessory genes during infection of their hosts.&lt;/p&gt;
@@ -118,9 +109,9 @@
     
     <item>
       <title>Crop-to-wild gene flow in apple trees</title>
-      <link>https://academic-demo.netlify.app/project/apple_tree_crop_wild/</link>
+      <link>https://afeurtey.github.io/project/apple_tree_crop_wild/</link>
       <pubDate>Fri, 01 Jul 2016 11:45:16 +0100</pubDate>
-      <guid>https://academic-demo.netlify.app/project/apple_tree_crop_wild/</guid>
+      <guid>https://afeurtey.github.io/project/apple_tree_crop_wild/</guid>
       <description>&lt;p&gt;During my PhD in Tatiana Giraud’s group, I studied the role of inter-specific hybridisations in the evolutionary history of apple trees. I investigated the effect of crop-to-wild gene flow on the conservation of two wild apple tree species:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;the European wild apple tree, &lt;em&gt;Malus sylvestris&lt;/em&gt;,&lt;/li&gt;
@@ -151,7 +142,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://academic-demo.netlify.app/images/Apple_orchard.jpg&#34; alt=&#34;An apple tree picture&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://afeurtey.github.io/images/Apple_orchard.jpg&#34; alt=&#34;An apple tree picture&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 </description>
@@ -159,9 +150,9 @@
     
     <item>
       <title>Strong Phylogeographic costructure between the anther-smut fungus and its white campion host</title>
-      <link>https://academic-demo.netlify.app/project/costructure_sil_micro/costructure_silene_microbotryum/</link>
+      <link>https://afeurtey.github.io/project/costructure_sil_micro/costructure_silene_microbotryum/</link>
       <pubDate>Fri, 01 Jan 2016 11:45:16 +0100</pubDate>
-      <guid>https://academic-demo.netlify.app/project/costructure_sil_micro/costructure_silene_microbotryum/</guid>
+      <guid>https://afeurtey.github.io/project/costructure_sil_micro/costructure_silene_microbotryum/</guid>
       <description>&lt;p&gt;
 
 
@@ -180,7 +171,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://academic-demo.netlify.app/images/Silene_Microbotryum_costr.png&#34; alt=&#34;Pretty plots showing the costructure between the plant and its pathogen&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://afeurtey.github.io/images/Silene_Microbotryum_costr.png&#34; alt=&#34;Pretty plots showing the costructure between the plant and its pathogen&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Here is the link to our &lt;a href=&#34;https://doi.org/10.1111/nph.14125&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;publication&lt;/a&gt; on this topic. We also were very honored to have a &lt;a href=&#34;https://doi.org/10.1111/nph.14203&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;commentary&lt;/a&gt; written about this paper by Daniel Croll and Anna-Liisa Laine.&lt;/p&gt;

@@ -3,4 +3,5 @@ data/*
 layouts/*
 R/*
 resources/*
-themes/*
+themes/github.com/*
+themes/starter-hugo-academic/*

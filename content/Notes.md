@@ -1,0 +1,3 @@
+2023-08-02
+At the bottom of the project pages, there were some links to share the page. This was not useful to me and linked to some random social website (twitter, facebook, whatsapp etc.). I went to "afeurtey.github.io/themes/custom_wowchemy_v5/layouts/partials/components/page_sharer.html" and switched 'range where site.Data.page_sharer.buttons "enable"' to false. This removed the current icons but they were replaced by other (even more random ones). I guess it inherits from something else.
+I simply set "sharing: false" in the afeurtey.github.io/config/_default/params.yaml file.

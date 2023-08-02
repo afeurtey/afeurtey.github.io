@@ -1,7 +1,6 @@
 ---
 title: Alice Feurtey
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests are at the interface between data science and biology. I am studying genomics and evolution, often by using fungi as model organisms.
 education:
   courses:
   - course: PhD in Biology
@@ -41,10 +40,10 @@ social:
   link: https://github.com/afeurtey
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/alice-feurtey-7a148a192/
+  link: https://www.linkedin.com/in/alice-feurtey-phd/
 superuser: true
 ---
 
-Alice Feurtey is a junior group leader at the ETH, working with Bruce McDonald in the Phytophatology group.
+Hi! I am currently a junior group leader at the ETH. I work on genomics and evolution. I've recently started using machine learning and deep learning, in particular, to answer long standing questions in biology. I use fungi and plants as model organisms.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

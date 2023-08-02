@@ -5,7 +5,7 @@
     <link>https://afeurtey.github.io/project/</link>
       <atom:link href="https://afeurtey.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Feb 2022 11:45:16 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://afeurtey.github.io/media/icon_hud0dbf17b8928d9e0d9e2422aaf422cc6_1197_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -15,10 +15,10 @@
     <item>
       <title>Global spread and adaptation of a major crop pathogen</title>
       <link>https://afeurtey.github.io/project/thousand_zt_genomes/</link>
-      <pubDate>Sat, 26 Feb 2022 11:45:16 +0100</pubDate>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://afeurtey.github.io/project/thousand_zt_genomes/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;This is an ongoing project and is described here only for information. The figures are from talks I have made and they are likely to change as this project evolves and until it gets published officially.&lt;/p&gt;
+&lt;p&gt;This project has been published in Nature Communications in February 2023 and can be found &lt;a href=&#34;https://doi.org/10.1038/s41467-023-36674-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. You can find a very short summary of our main findings below.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Human activity has a tremendous impact on the evolutionary trajectories of many species worldwide. Global trade of agricultural goods contributes to the dispersal of domesticated species but also of their pathogens, reshaping species distributions to include new environments and climates. In the agricultural context, humans partially control the evolution of crop species as well as some environmental variables, thus imposing selective pressure on crop pathogens. Understanding how pathogens surmount control strategies and cope with new climates is crucial to predicting the future impact of crop pathogens in a changing world.
 &lt;em&gt;Zymoseptoria tritici&lt;/em&gt; is a major bread and durum wheat pathogen, and causes significant damage in wheat cultivation. It was previously discovered that the center-of-origin of &lt;em&gt;Z. tritici&lt;/em&gt; is the Middle-East, where its sister species are infecting wild grasses. It was also found that the speciation of &lt;em&gt;Z. tritici&lt;/em&gt; happened at the same time as the domestication of its host. &lt;em&gt;Z. tritici&lt;/em&gt; is now reported in most wheat-growing regions of the world.&lt;/p&gt;
@@ -44,6 +44,28 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://afeurtey.github.io/images/1000_Zt_Pop_str.png&#34; alt=&#34;Map of the world displaying the 11 genetic clusters and population tree&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
+&lt;p&gt;We also show that the out-of-the-Middle-East migration accompanied by increased activity of transposable elements, probably due to weakened genomic defenses against transposable elements.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://afeurtey.github.io/images/1000_Zt_TE_content.png&#34; alt=&#34;Transposable elements content per isolate for all 11 genetic clusters&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;By reconstructing the evolutionary history of the species, we uncovered its impact on adaptive genetic variation and on the evolution of the pathogen genome. Finally, we identify standing variation for adaptation to new climates encountered during the global spread. See below an example of such an analysis for two of the thirteen variables we used.&lt;/p&gt;
 &lt;p&gt;
 
@@ -66,7 +88,7 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://afeurtey.github.io/images/1000_Zt_GEA.png&#34; alt=&#34;Example of a Manhattan plot from the GEA analysis using bioclimatic variables&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Taken together, our work demonstrates how a comprehensive panel of genomes enables deep insights into the evolutionary history of a major crop pathogen.&lt;/p&gt;
+&lt;p&gt;Our work shows how large population genomic panels enable deep insights into the evolutionary trajectory of a major crop pathogen.&lt;/p&gt;
 </description>
     </item>
     

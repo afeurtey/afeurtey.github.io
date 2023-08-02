@@ -5,12 +5,43 @@
     <link>https://afeurtey.github.io/</link>
       <atom:link href="https://afeurtey.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alice Feurtey</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://afeurtey.github.io/media/icon_hud0dbf17b8928d9e0d9e2422aaf422cc6_1197_512x512_fill_lanczos_center_3.png</url>
       <title>Alice Feurtey</title>
       <link>https://afeurtey.github.io/</link>
     </image>
+    
+    <item>
+      <title>Using deep learning to unveil the language of fungal DNA</title>
+      <link>https://afeurtey.github.io/project/deep_learning_fungal_dna/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://afeurtey.github.io/project/deep_learning_fungal_dna/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://afeurtey.github.io/images/DL_main_question.png&#34; alt=&#34;Main question motivating my first deep learning project&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Fundamentally, biology can be thought of as an information processing system, one that transfers information from one generation to the next, imperfectly but while maintaining its core structure and functionality. Taken down to its core elements, biology can thus be conceptualised in an information science framework. Furthermore, biological information is transferred in an organized manner, using common patterns of only four letters to form a complex language. Deciphering this genetic grammar is still one of the biggest challenges in biology today. Some DNA grammar elements exhibit near-universality across the tree of life, such as the codon &amp;ldquo;ATG&amp;rdquo; (encoding a methionine) to mark the start signal of a gene in most organisms. However, while such common signals as start/stop codons exist, many evolutionary lineages have adopted specific language elements, contributing to the diversification and adaptation of organisms. Such specificities vary in how evolutionary recent they are and thus how clade-specific they appear. Although coding sequence exhibit such patterns (such as with codon optimization for example), this is particularly true in the non-coding parts of the genome.&lt;/p&gt;
+&lt;p&gt;In the last years, new sequencing technologies have promoted the production of a deluge of new -omics data, allowing for tremendous progress in various fields such as genomics, transcriptomics or epigenomics. However, until recently finding methods to synthesize the information contained within such large amounts of data has been near impossible. I propose to take advantage of the groundbreaking advances in artificial intelligence (AI) to mine the huge amount of available -omics data and provide new insights into old standing biological questions. In particular, I want to apply the latest development in Deep Learning (DL) and Natural Language Processing (NLP) to investigate the universality and specificities of the genetic language.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Global spread and adaptation of a major crop pathogen</title>
@@ -210,6 +241,17 @@ These findings indicate that the pathogen has remained isolated in the same frag
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://afeurtey.github.io/admin/config.yml</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://afeurtey.github.io/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://afeurtey.github.io/notes/</guid>
+      <description>&lt;p&gt;2023-08-02
+At the bottom of the project pages, there were some links to share the page. This was not useful to me and linked to some random social website (twitter, facebook, whatsapp etc.). I went to &amp;ldquo;afeurtey.github.io/themes/custom_wowchemy_v5/layouts/partials/components/page_sharer.html&amp;rdquo; and switched &amp;lsquo;range where site.Data.page_sharer.buttons &amp;ldquo;enable&amp;rdquo;&amp;rsquo; to false. This removed the current icons but they were replaced by other (even more random ones). I guess it inherits from something else.
+I simply set &amp;ldquo;sharing: false&amp;rdquo; in the afeurtey.github.io/config/_default/params.yaml file.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
